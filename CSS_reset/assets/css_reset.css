@@ -1,0 +1,21 @@
+html, head, title, h1, h2, h3, h4, h5, h6, script, header, img, nav, ul, li, aside, section, figure, figcaption, p, form, label, label {
+  margin: 0;
+  padding: 0;
+  border-style: none;
+
+  font-style: inherit;
+  font: inherit;
+  text-align: inherit;
+  font-size: 100%;
+
+  vertical-align: baseline;
+
+  background-color: none;
+}
+
+ol li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+
+}
